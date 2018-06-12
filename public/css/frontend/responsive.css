@@ -1,0 +1,18 @@
+
+
+@media only screen and (max-width: 375px) {
+    #facts .counters span {
+        font-size: 16px !important;
+    }
+    #facts .counters p {
+        font-size: 12px !important;
+    }
+    #about .about-container p{
+        font-size: 14px !important;
+    }
+    #call-to-action .cta-title {
+        font-size: 24px !important;
+    }
+}
+  
+ 

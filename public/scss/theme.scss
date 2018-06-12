@@ -1,0 +1,17 @@
+$color_green: #88b145;
+$color_red: red;
+$color_blue: rgb(0, 217, 255);
+
+/*--------------------------------------------------------------
+# Color Defualt
+--------------------------------------------------------------*/
+a { 
+    color: $color_green;
+    outline: none;
+    text-decoration: none;
+    transition: 0.5s;
+    &:hover {
+        color: black;
+    }
+    
+}
